@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "test":{
-    "value": 1
+  "test": {
+    "ok": "a1"
   }
 }
